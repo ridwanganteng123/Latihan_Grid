@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:columnCount="4"
+    android:rowCount="3"
+    android:orientation="horizontal"
+    >
+    <TextView
+        android:id="@+id/hurupa"
+        android:text="A"
+        android:textSize="30pt"
+        android:padding="20dp"
+        />
+    <TextView
+        android:id="@+id/hurupb"
+        android:text="B"
+        android:textSize="30pt"
+        android:padding="20dp"
+        />
+    <TextView
+        android:id="@+id/hurupc"
+        android:text="C"
+        android:textSize="30pt"
+        android:padding="20dp"
+        />
+    <TextView
+    android:id="@+id/hurupd"
+    android:text="D"
+    android:textSize="30pt"
+    android:padding="20dp"
+    /> <TextView
+    android:id="@+id/hurupe"
+    android:text="E"
+    android:textSize="30pt"
+    android:padding="20dp"
+    /> <TextView
+    android:id="@+id/hurupf"
+    android:text="F"
+    android:textSize="30pt"
+    android:padding="20dp"
+    /> <TextView
+    android:id="@+id/hurupg"
+    android:text="G"
+    android:textSize="30pt"
+    android:padding="20dp"
+    /> <TextView
+    android:id="@+id/huruph"
+    android:text="H"
+    android:textSize="30pt"
+    android:padding="20dp"
+    /> <TextView
+    android:id="@+id/hurupi"
+    android:text="I"
+    android:textSize="30pt"
+    android:padding="20dp"
+    /> <TextView
+    android:id="@+id/hurupj"
+    android:text="J"
+    android:textSize="30pt"
+    android:padding="20dp"
+    /> <TextView
+    android:id="@+id/hurupk"
+    android:text="K"
+    android:textSize="30pt"
+    android:padding="20dp"
+    />
+    <TextView
+        android:id="@+id/hurupl"
+        android:text="L"
+        android:textSize="30pt"
+        android:padding="20dp"
+        />
+</GridLayout>
